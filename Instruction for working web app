@@ -1,1 +1,52 @@
-Instruction for using web app :
+## Instruction for using web app :
+
+# Simple-Data-Science-App-For-Exploration-of-Dataset-ana-Algorithm-
+
+It is very simple Web App which explore different dataset like Vine etc and different algorithms like SVM ,Randomforest etc for getting accuracy of given dataset
+
+ # First step -
+HOME Page of Simple Data Science Web App But Click on Signup Dropdown for Creating Account
+
+ # Second step -
+ Enter Username and Password then click on Signup Button and You have successfully created account in Web App 
+ 
+ # Third step -
+ Click on Login and Enter Username and Password Correctly then you will get access to the web application 
+ 
+# Fourth step -
+Select Dataset and Classifier and you will see output 
+
+# Fifth step -
+Output after selecting Dataset and Classifier where you can check accuracy and name of dataset and classifier and no of classes in the given dataset
+
+# Sixth step -
+It is Visualization of selected dataset which is Iris 
+
+# Seventh step -
+Click on User Profiles where you can see  no of users in your web application
+
+# eighth step -
+Now Select dataset as Breast Cancer and select classifier as Support Vector Machine
+
+# Nineth step -
+Output of previous selection of datset and classifier and you can see Dataset and Classifier where you can check accuracy and name of dataset and classifier and no of classes in the given dataset
+
+# Tenth step -
+You can select c parameter base on your requriment because of that accuracy is increase 
+
+# Eleven step -
+Now Select dataset as Wine and select classifier as Random Forest
+
+# Twelve step -
+Output after selecting Dataset and Classifier where you can check accuracy and name of dataset and classifier and no of classes in the given dataset
+
+# Thirteen step -
+You can change two parameter base on your requriment because of that accuracy is increase 
+
+# Fourteenstep -
+Output after increasing the parameters (Accaracy is also increasing)
+
+# Fifteen step -
+It is Visualization of selected dataset which is Wine
+
+
