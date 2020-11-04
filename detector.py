@@ -10,7 +10,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from PIL import Image
-# Security
+# Security(Crytography)
 #passlib,hashlib,bcrypt,scrypt
 import hashlib
 def make_hashes(password):
